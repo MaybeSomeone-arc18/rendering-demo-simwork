@@ -35,6 +35,7 @@ Best solution:
 - Homepage → ISR (revalidate every 30–60s)
 - Breaking news → Dynamic rendering
 - Articles → Static rendering with ISR
+Implemented Static, Dynamic, and Hybrid Rendering using Next.js App Router
 
 ## Reflection
 
