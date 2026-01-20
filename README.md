@@ -41,4 +41,4 @@ Implemented Static, Dynamic, and Hybrid Rendering using Next.js App Router
 
 If the app had 10x more users, using SSR everywhere would be costly.
 Most pages should use static or hybrid rendering, reserving SSR only
-for pages that truly need real-time data!
+for pages that truly need real-time data.
