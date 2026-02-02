@@ -37,6 +37,7 @@ Best solution:
 - Articles → Static rendering with ISR
 Implemented Static, Dynamic, and Hybrid Rendering using Next.js App Router
 
+
 ## Reflection
 
 If the app had 10x more users, using SSR everywhere would be costly.
