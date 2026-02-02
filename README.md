@@ -8,7 +8,6 @@
 
 ## Why These Choices?
 
-
 ### Static Rendering
 Used for the About page since content does not change often.
 It provides fast load times and zero server cost per request.
